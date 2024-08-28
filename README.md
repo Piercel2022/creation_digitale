@@ -40,11 +40,11 @@ REQUIRED SECTIONS:
 
 
 
-# 📖 [creation_digitale] <a name="about-project"></a>
+# 📖 Pierre Créations <a name="about-project"></a>
 
 
 
-**[creation_digitale]** is a website that showcase differents digitale creation on the instagram social media platform
+Pierre Créations is a website that showcase differents digitale creation on the instagram social media platform
 
 ## 🛠 Built With <a name="built-with"></a>
 
