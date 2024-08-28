@@ -1,5 +1,4 @@
 
-
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
@@ -45,7 +44,7 @@ REQUIRED SECTIONS:
 
 
 
-Pierre Créations is a website that showcase differents digitale creation on the instagram social media platform
+Pierre Créations is a website that promote differents produits on the instagram social media platform
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -98,7 +97,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 ```sh
- npx create-react-app creation_digitale
+ npx create-react-app fitenergie
 ```
  
 
@@ -108,8 +107,8 @@ Clone this repository to your desired folder:
 
 ```sh
  
-  git clone git@github.com:Piercel2022/creation_digitale.git
-   cd creation_digitale
+  git clone git@github.com:Piercel2022/fitenergie.git
+   cd fitenergie
 ```
 
 
