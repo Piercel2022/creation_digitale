@@ -83,7 +83,7 @@ Pierre Créations is a website that promote differents produits on the instagram
 
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://pierrecreations.nrtlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +97,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 ```sh
- npx create-react-app fitenergie
+ npx create-react-app creation_digitale
 ```
  
 
@@ -107,8 +107,8 @@ Clone this repository to your desired folder:
 
 ```sh
  
-  git clone git@github.com:Piercel2022/fitenergie.git
-   cd fitenergie
+  git clone git@github.com:Piercel2022/creation_digitale.git
+   cd creation_digitale
 ```
 
 
